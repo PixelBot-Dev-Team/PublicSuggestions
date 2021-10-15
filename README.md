@@ -11,7 +11,7 @@ Please go to the "Issues" panel above and leave your suggestion as an issue.
 ## Projects
 |Project Name|  Created by| About | 
 |--|--| --| 
-| DisasterBot | Simon | An interesting bot with many features including disasters, flood fill, chat features and more| 
+| DisasterBot | Simon | Bringing Disaster Simulations to /7!| 
 | Printer | Duchesskero | A socket.io bot made in python| 
 | PixelPlaceTTT | Duchesskero, Simon, AlmosYT | Tic Tac Toe in PixelPlace!| 
 | HawkEye | Simon & AlmosYT | An advanced logging system for PixelPlace.io|
