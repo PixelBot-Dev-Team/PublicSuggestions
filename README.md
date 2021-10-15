@@ -1,20 +1,21 @@
-# PixelBot - Public Suggestions
+# Public Suggestions
 ![PixelBot logo](https://media-exp1.licdn.com/dms/image/C4E0BAQH0aTkragyM_w/company-logo_200_200/0/1519913005105?e=2159024400&v=beta&t=huXf4oR0npEDAilXPdTYNvCocAzxUCVu0K3m3utcMxI)
 
 [![Discord Server](https://badgen.net/badge/discord/join%20chat/7289DA?icon=discord)](https://discord.gg/JqHaVq9kbe)
 
-## Public Suggestions
-Please go to the "issues" panel above and leave your suggestions as a new issue there!
-
-## About us
 PixelBot is a team of developers and testers creating bots for **PixelPlace**. We don't necessarily work on the same project together, but we cooperate and help each other with our personal projects. 
 
+## Public Suggestions
+Please go to the "Issues" panel above and leave your suggestion as an issue.
+
 ## Projects
-|Project Name|  Created by| Used for | 
+|Project Name|  Created by| About | 
 |--|--| --| 
-| PythonBot | Dukekero | ARTS bot, authenticating and communicating with PixelPlace| 
-| PythonPPCommunicator | Dukekero (& AlmosYT) | Communicating with PixelPlace and a local TCP server| 
-| CSharpBot | AlmosYT | Bot with a User Interface, eventually a full-fledged client for PixelPlace| 
+| DisasterBot | Simon | An interesting bot with many features including disasters, flood fill, chat features and more| 
+| Printer | Duchesskero | A socket.io bot made in python| 
+| PixelPlaceTTT | Duchesskero, Simon, AlmosYT | Tic Tac Toe in PixelPlace!| 
+| HawkEye | Simon & AlmosYT | An advanced logging system for PixelPlace.io|
+| PyPixel | Duchesskero | Communicating with PixelPlace using socket.io| 
 
 ## Join us
 **Anyone** can join the PixelBot team. You don't need to know how to code.
